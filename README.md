@@ -1,0 +1,3 @@
+Hello 👋
+My name is Jack and this is my repository for all the projects I have developed.
+Take a look around...
